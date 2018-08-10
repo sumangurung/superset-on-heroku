@@ -1,5 +1,5 @@
 pylibmc==1.5.1
-git+git://github.com/Casecommons/incubator-superset.git@1640e560f6f2348a2006e60030c506e61a9a0309
+git+git://github.com/Casecommons/incubator-superset.git@4a54d3d58b8ceaed01e2abd7e9b81e117f54722d
 psycopg2==2.7.5
 MySQL-python==1.2.5
 sqlalchemy-redshift==0.7.1
